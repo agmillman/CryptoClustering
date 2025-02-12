@@ -17,7 +17,7 @@ This challenge, applies unsupervised learning to analyze cryptocurrency data and
 - Create composite plots to compare Elbow Curves and Cluster Visualizations
 - Answer: How does using fewer features impact clustering?
 
-#Analysis
+# Analysis
 - The PCA cluster optimization resulted in a 89.50% variance of the total variation in the original dataset
 - Since 89.50% of the information was retained, the K-Means clustering of the PCA transformed data yields the same number of groupings that are more tightly grouped
 
