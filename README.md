@@ -24,3 +24,10 @@ This challenge, applies unsupervised learning to analyze cryptocurrency data and
   ![image](https://github.com/user-attachments/assets/e4dc71fa-5a23-4297-9446-67d2c8f8de45)
   
 ![image](https://github.com/user-attachments/assets/b0378719-4da0-44fc-86e2-31bbef2f639a)
+
+# Code Source
+- All code contained in this project is original
+
+# References:
+- ChatGpt.com: Used to provide sample code snippets for understanding appropriate syntax
+- Module 19 Activities: References for examples of working code
