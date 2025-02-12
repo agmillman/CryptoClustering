@@ -2,7 +2,7 @@
 
 This challenge, applies unsupervised learning to analyze cryptocurrency data and determine how 24-hour and 7-day price changes impact clustering results.
 
-# Steps:
+# Steps
 - Load crypto_market_data.csv into a DataFrame
 - Standardize the data using StandardScaler
 - Use the Elbow Method on the scaled dataset to determine the optimal number of clusters (k)
